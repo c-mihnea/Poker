@@ -1,8 +1,7 @@
-#include <iostream>
+#include "Test.hpp"
 
 int main()
 {
-    std::cout << "Hi";
-    std::cout << "Test";
+    Test test;
     return 0;
 }
